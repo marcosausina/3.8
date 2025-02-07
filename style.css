@@ -1,0 +1,22 @@
+h2{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+    background-color: greenyellow;
+}
+
+section{
+    background-color: orange;
+}
+
+p.ultimo_p_antes_de_footer{
+    background-color: orange;
+}
+
+footer{
+    background-color: blue;
+    text-align: center;
+}
